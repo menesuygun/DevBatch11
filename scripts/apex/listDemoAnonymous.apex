@@ -1,3 +1,5 @@
+Collections_Assignment.listMethods();
+
 ListDemo.allCats();
 
 string valueAt2 = ListDemo.cadidatesList(2);
